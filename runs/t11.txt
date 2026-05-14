@@ -1,0 +1,444 @@
+(ql:quickload "...")
+(ql:system-apropos "...")
+--- Loaded quicklisp ---
+To load "fiveam":
+  Load 1 ASDF system:
+    fiveam
+; Loading "fiveam"
+
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THBIND
+;     (MICROPLANNER::THBI1 (CADAR MICROPLANNER::A))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THBI1
+; 
+; compilation unit finished
+;   Undefined function:
+;     THBI1
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THGAL
+;     (MICROPLANNER::THERT-FN (LIST 'MICROPLANNER::THUNBOUND 'MICROPLANNER:THGAL))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+; 
+; compilation unit finished
+;   Undefined function:
+;     THERT-FN
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THVARS2
+;     (MICROPLANNER:THVAL (CADR MICROPLANNER::X) MICROPLANNER::THOLIST)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THVAL
+; 
+; compilation unit finished
+;   Undefined function:
+;     THVAL
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THVARSUBST
+;     (MICROPLANNER:THVAL (CADR MICROPLANNER::THX) MICROPLANNER:THALIST)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THVAL
+; 
+; compilation unit finished
+;   Undefined function:
+;     THVAL
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THMATCH2
+;     (MICROPLANNER::CAR-SAFE MICROPLANNER::THY)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::CAR-SAFE
+
+;     (MICROPLANNER:THVAL (CADR MICROPLANNER::THX) MICROPLANNER::THOLIST)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THVAL
+; 
+; compilation unit finished
+;   Undefined functions:
+;     CAR-SAFE THVAL
+;   caught 2 STYLE-WARNING conditions
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THMATCH1
+;     (MICROPLANNER:THVAL (CADR MICROPLANNER::THX) MICROPLANNER::THOLIST)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THVAL
+; 
+; compilation unit finished
+;   Undefined function:
+;     THVAL
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THREM1
+;     (MICROPLANNER::THBA MICROPLANNER::THNF MICROPLANNER::THA1)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THBA
+
+;     (MICROPLANNER::THBAP MICROPLANNER::THBS (CDR MICROPLANNER::THA4))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THBAP
+; 
+; compilation unit finished
+;   Undefined functions:
+;     THBA THBAP
+;   caught 2 STYLE-WARNING conditions
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THADD
+;     (MICROPLANNER::THERT-FN
+;      '(MICROPLANNER::CANT MICROPLANNER:THASSERT MICROPLANNER::NO
+;        MICROPLANNER::THEOREM - MICROPLANNER::THADD))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+; 
+; compilation unit finished
+;   Undefined function:
+;     THERT-FN
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THASS1
+;     (MICROPLANNER::THERT-FN
+;      '(MICROPLANNER::IMPURE MICROPLANNER::ASSERTION OR MICROPLANNER::ERASURE -
+;        MICROPLANNER::THASS1))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+
+;     (MICROPLANNER:THPURE
+;      (SETQ MICROPLANNER::THX (MICROPLANNER::THVARSUBST MICROPLANNER::THX NIL)))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THPURE
+
+;     (MAPCAN #'MICROPLANNER::THTAE MICROPLANNER::THA)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THTAE
+; 
+; compilation unit finished
+;   Undefined functions:
+;     THERT-FN THPURE THTAE
+;   caught 3 STYLE-WARNING conditions
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THDEF
+;     (MICROPLANNER::THGENAME-FN 'MICROPLANNER::TC-G)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THGENAME-FN
+; 
+; compilation unit finished
+;   Undefined function:
+;     THGENAME-FN
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THAPPLY1
+;     (MICROPLANNER::THPROGA)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THPROGA
+; 
+; compilation unit finished
+;   Undefined function:
+;     THPROGA
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THTRY
+;     (MICROPLANNER::THERT-FN
+;      (LIST 'MICROPLANNER::UNCLEAR 'MICROPLANNER::RECOMMENDATION '-
+;            'MICROPLANNER::THTRY))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+; 
+; compilation unit finished
+;   Undefined function:
+;     THERT-FN
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THTRY1
+;     (MICROPLANNER::THERT-FN
+;      (LIST 'MICROPLANNER::BAD 'MICROPLANNER::THEOREM '- 'MICROPLANNER::THTRY1))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+; 
+; compilation unit finished
+;   Undefined function:
+;     THERT-FN
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THFIND-FN
+;     (PROG (MICROPLANNER::THFVARS MICROPLANNER::THFBODY MICROPLANNER::THFN
+;            MICROPLANNER::THFR MICROPLANNER::THFP)
+;       (SETQ MICROPLANNER::THFVARS (CAR MICROPLANNER::THA))
+;       (SETQ MICROPLANNER::THFBODY (CDR MICROPLANNER::THA))
+;       (LET ((MICROPLANNER::RESULT (MICROPLANNER:THVAL # MICROPLANNER:THALIST)))
+;         (RETURN MICROPLANNER::RESULT)))
+; ==>
+;   (LET (MICROPLANNER::THFVARS
+;         MICROPLANNER::THFBODY
+;         MICROPLANNER::THFN
+;         MICROPLANNER::THFR
+;         MICROPLANNER::THFP)
+;     (TAGBODY
+;       (SETQ MICROPLANNER::THFVARS (CAR MICROPLANNER::THA))
+;       (SETQ MICROPLANNER::THFBODY (CDR MICROPLANNER::THA))
+;       (LET ((MICROPLANNER::RESULT #))
+;         (RETURN MICROPLANNER::RESULT))))
+; 
+; caught STYLE-WARNING:
+;   The variable THFVARS is assigned but never read.
+; 
+; caught STYLE-WARNING:
+;   The variable THFBODY is assigned but never read.
+; 
+; caught STYLE-WARNING:
+;   The variable THFN is defined but never used.
+; 
+; caught STYLE-WARNING:
+;   The variable THFR is defined but never used.
+; 
+; caught STYLE-WARNING:
+;   The variable THFP is defined but never used.
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THFIND-FN
+;     (MICROPLANNER:THVAL (CONS 'MICROPLANNER:THPROG MICROPLANNER::THA)
+;      MICROPLANNER:THALIST)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THVAL
+; 
+; compilation unit finished
+;   Undefined function:
+;     THVAL
+;   caught 6 STYLE-WARNING conditions
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THPROG-FN
+;     (MICROPLANNER::THPROGA)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THPROGA
+; 
+; compilation unit finished
+;   Undefined function:
+;     THPROGA
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THPROGF
+;     (MICROPLANNER::THBRANCHUN)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THBRANCHUN
+; 
+; compilation unit finished
+;   Undefined function:
+;     THBRANCHUN
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THPROGT
+;     (MICROPLANNER::THBRANCH)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THBRANCH
+; 
+; compilation unit finished
+;   Undefined function:
+;     THBRANCH
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THCONDT
+;     (MICROPLANNER::CAADAHAR MICROPLANNER:THTREE)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::CAADAHAR
+; 
+; compilation unit finished
+;   Undefined function:
+;     CAADAHAR
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THAMONG-FN
+;     (MICROPLANNER:THVAL (CADAR MICROPLANNER::THA) MICROPLANNER:THALIST)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THVAL
+; 
+; compilation unit finished
+;   Undefined function:
+;     THVAL
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THSETQ-FN
+;     (MICROPLANNER::THERT-FN
+;      '(MICROPLANNER::ODD NUMBER MICROPLANNER::OF MICROPLANNER::GOODIES -
+;        MICROPLANNER:THSETQ))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+
+;     (MICROPLANNER:THVAL (CADR MICROPLANNER::THL) MICROPLANNER:THALIST)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THVAL
+; 
+; compilation unit finished
+;   Undefined functions:
+;     THERT-FN THVAL
+;   caught 2 STYLE-WARNING conditions
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THVSETQ-FN
+;     (MICROPLANNER::THERT-FN
+;      '(MICROPLANNER::ODD NUMBER MICROPLANNER::OF MICROPLANNER::GOODIES -
+;        MICROPLANNER:THVSETQ))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+
+;     (MICROPLANNER:THVAL (CADR MICROPLANNER::A) MICROPLANNER:THALIST)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THVAL
+; 
+; compilation unit finished
+;   Undefined functions:
+;     THERT-FN THVAL
+;   caught 2 STYLE-WARNING conditions
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THSUCCEED-FN
+;     (MICROPLANNER::THERT-FN '(MICROPLANNER::OVERPOP - MICROPLANNER:THSUCCEED))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+; 
+; compilation unit finished
+;   Undefined function:
+;     THERT-FN
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THFAIL-FN
+;     (PROG (MICROPLANNER::THTREE1 MICROPLANNER::THA1 MICROPLANNER::THX)
+;      MICROPLANNER::F
+;       (SETQ MICROPLANNER::THA1
+;               (COND (# 'MICROPLANNER:THPROG) (# 'MICROPLANNER:THPROG) (T #)))
+;       (COND ((NULL MICROPLANNER:THTREE) (RETURN NIL))
+;             ((AND (EQ # MICROPLANNER::THA1) (OR # # #)) (MICROPLANNER::THPOPT)
+;              (RETURN NIL))
+;             (T (MICROPLANNER::THPOPT) (GO MICROPLANNER::F))))
+; ==>
+;   (LET (MICROPLANNER::THTREE1 MICROPLANNER::THA1 MICROPLANNER::THX)
+;     (TAGBODY
+;      MICROPLANNER::F
+;       (SETQ MICROPLANNER::THA1 (COND # # #))
+;       (COND ((NULL MICROPLANNER:THTREE) (RETURN NIL))
+;             ((AND # #) (MICROPLANNER::THPOPT) (RETURN NIL))
+;             (T (MICROPLANNER::THPOPT) (GO MICROPLANNER::F)))))
+; 
+; caught STYLE-WARNING:
+;   The variable THTREE1 is defined but never used.
+; 
+; compilation unit finished
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THMESSAGEF
+;     (MICROPLANNER:THVAL (CADR MICROPLANNER::BOD) MICROPLANNER:THALIST)
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER:THVAL
+; 
+; compilation unit finished
+;   Undefined function:
+;     THVAL
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THV1
+;     (MICROPLANNER::THERT-FN
+;      (LIST 'MICROPLANNER:THUNASSIGNED '- 'MICROPLANNER::THV1))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+; 
+; compilation unit finished
+;   Undefined function:
+;     THERT-FN
+;   caught 1 STYLE-WARNING condition
+
+; file: /Users/jeffshrager/Desktop/AIHistory/SHRDLU/clplnr_repo/planner.lisp
+; in: DEFUN THTAE
+;     (MICROPLANNER::THERT-FN
+;      (LIST 'MICROPLANNER::BAD 'MICROPLANNER::THEOREM '- 'MICROPLANNER::THTAE))
+; 
+; caught STYLE-WARNING:
+;   undefined function: MICROPLANNER::THERT-FN
+; 
+; compilation unit finished
+;   Undefined function:
+;     THERT-FN
+;   caught 1 STYLE-WARNING condition
+Micro-Planner 181 ready.
+While evaluating the form starting at line 6, column 0
+  of #P"/tmp/t11.lisp":
+Unhandled TYPE-ERROR in thread #<SB-THREAD:THREAD "main thread" RUNNING
+                                  {1004BF80A3}>:
+  The value
+    NIL
+  is not of type
+    CONS
+
+Backtrace for: #<SB-THREAD:THREAD "main thread" RUNNING {1004BF80A3}>
+0: (THBRANCHUN)
+1: (THANDF)
+2: (THVAL (THPROG (X) (THAND #1=((THGOAL (MORTAL #))) . #1#)) ((NIL NIL)))
+3: (SB-INT:SIMPLE-EVAL-IN-LEXENV (THVAL (QUOTE (THPROG (X) (THAND #1=(#) . #1#))) THALIST) #<NULL-LEXENV>)
+4: (SB-INT:SIMPLE-EVAL-IN-LEXENV (FORMAT T "T11a and-both: ~S~%" (THVAL (QUOTE (THPROG (X) (THAND #1=# . #1#))) THALIST)) #<NULL-LEXENV>)
+5: (SB-EXT:EVAL-TLF (FORMAT T "T11a and-both: ~S~%" (THVAL (QUOTE (THPROG (X) (THAND #1=# . #1#))) THALIST)) 5 NIL)
+6: ((LABELS SB-FASL::EVAL-FORM :IN SB-INT:LOAD-AS-SOURCE) (FORMAT T "T11a and-both: ~S~%" (THVAL (QUOTE (THPROG (X) (THAND #1=# . #1#))) THALIST)) 5)
+7: ((LAMBDA (SB-KERNEL:FORM &KEY :CURRENT-INDEX &ALLOW-OTHER-KEYS) :IN SB-INT:LOAD-AS-SOURCE) (FORMAT T "T11a and-both: ~S~%" (THVAL (QUOTE (THPROG (X) (THAND #1=# . #1#))) THALIST)) :CURRENT-INDEX 5)
+8: (SB-C::%DO-FORMS-FROM-INFO #<FUNCTION (LAMBDA (SB-KERNEL:FORM &KEY :CURRENT-INDEX &ALLOW-OTHER-KEYS) :IN SB-INT:LOAD-AS-SOURCE) {100447E8BB}> #<SB-C::SOURCE-INFO {100447E883}> SB-C::INPUT-ERROR-IN-LOAD)
+9: (SB-INT:LOAD-AS-SOURCE #<SB-INT:FORM-TRACKING-STREAM for "file /tmp/t11.lisp" {100447D803}> :VERBOSE NIL :PRINT NIL :CONTEXT "loading")
+10: ((LABELS SB-FASL::LOAD-STREAM-1 :IN LOAD) #<SB-INT:FORM-TRACKING-STREAM for "file /tmp/t11.lisp" {100447D803}> NIL)
+11: (SB-FASL::CALL-WITH-LOAD-BINDINGS #<FUNCTION (LABELS SB-FASL::LOAD-STREAM-1 :IN LOAD) {A9D795B}> #<SB-INT:FORM-TRACKING-STREAM for "file /tmp/t11.lisp" {100447D803}> NIL #<SB-INT:FORM-TRACKING-STREAM for "file /tmp/t11.lisp" {100447D803}>)
+12: (LOAD #P"/tmp/t11.lisp" :VERBOSE NIL :PRINT NIL :IF-DOES-NOT-EXIST :ERROR :EXTERNAL-FORMAT :DEFAULT)
+13: (SB-IMPL::PROCESS-EVAL/LOAD-OPTIONS ((:LOAD . "package.lisp") (:LOAD . "compat.lisp") (:LOAD . "globals.lisp") (:LOAD . "planner.lisp") (:LOAD . "/tmp/t11.lisp") (:QUIT)))
+14: (SB-IMPL::TOPLEVEL-INIT)
+15: ((FLET SB-UNIX::BODY :IN SB-IMPL::START-LISP))
+16: ((FLET "WITHOUT-INTERRUPTS-BODY-3" :IN SB-IMPL::START-LISP))
+17: (SB-IMPL::%START-LISP)
+
+unhandled condition in --disable-debugger mode, quitting
